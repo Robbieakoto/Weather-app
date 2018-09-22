@@ -111,6 +111,7 @@ body,html{
     background-image: url("./assets/background.png");
     background-repeat: no-repeat;
     background-size: cover;
+    height:100%;
 }
 .container {
   background-color: rgba(236, 240, 241, 0.8);
